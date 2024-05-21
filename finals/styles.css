@@ -1,0 +1,62 @@
+body {
+	font-family: 'Times New Roman', Times, serif;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color:  #ffffff;
+  }
+  
+  .container {
+	background-color: rgba(253, 253, 253, 0.562);
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	padding: 20px;
+	width: 290px;
+  }
+  
+  h1, h2 {
+	text-align: center;
+	color: #333;
+  }
+  
+  label {
+	display: block;
+	margin-top: 10px;
+	color: #000000;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+	width: 90%;
+	padding: 5px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	margin-top: 5px;
+  }
+  
+  button {
+	display: block;
+	width: 95%;
+	padding: 10px;
+	border: none;
+	border-radius: 3px;
+	background-color: #4CAF50;
+	color: #fff;
+	cursor: pointer;
+	margin-top: 15px;
+  }
+  
+  button:hover {
+	background-color: #45a049;
+  }
+  .success-message {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: #ffffff;
+    border: 1px solid #39a853;
+    border-radius: 4px;
+}

@@ -1,0 +1,17 @@
+12345|username@domain.com|12345
+qwerty|username@domain.com|1234567890
+laurence|username@domain.com|00000
+ttttt|username@domain.com|111111111
+dwfa|username@domain.com|12345
+dwfa|username@domain.com|12345
+dwfa|username@domain.com|12345
+dwfa|username@domain.com|12345
+dwfa|username@domain.com|12345
+dwfa|username@domain.com|24124214
+dwfa|username@domain.com|24124214
+dwfa|username@domain.com|24124214
+z |username@domain.com|xvxvxv
+ewgwet|username@domain.com|ewtet
+etwyre|username@domain.com|12345
+etwyre|username@domain.com|12345
+etwyre|username@domain.com|12345

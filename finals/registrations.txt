@@ -1,0 +1,11 @@
+mang kanor|username@domain.com|12345
+asdas|username@domain.com|12345
+dawa|username@domain.com|12345
+dawa|username@domain.com|12345
+wfa|username@domain.com|qweqwe
+wfa|username@domain.com|qweqwe
+wqafa|safasf@efafaf|fasasf
+sffas|username@domain.com|12345
+sffas|username@domain.com|12345
+fadsfasdf|username@domain.com|12345
+12345|username@domain.com|12345

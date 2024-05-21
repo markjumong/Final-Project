@@ -1,0 +1,109 @@
+body {
+    background-image: url('fly.gif');
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+@keyframes gif-animation {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: 100% 100%;
+    }
+    100% {
+        background-position: 0% 0%;
+    }
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 0 0 10px;
+    padding: 0;
+    color: #000000;
+}
+
+p {
+    font-size: 1rem;
+    margin: 0 0 10px;
+    padding: 0;
+    color: #2a2020;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #f4f2f2;
+    margin: 20px 0;
+}
+
+#clock {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+button {
+    display: block;
+    width: 10%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #0a2ac8;
+    color: #43d800;
+    cursor: pointer;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#button {
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #000;
+}
+
+#button:hover {
+    background-color: #45a049;
+}
+
+.container {
+	background-color: rgba(253, 253, 253, 0.562);
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	padding: 20px;
+	width: 295px;
+  }
+
+  label {
+	display: block;
+	margin-top: 10px;
+	color: #000000;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+	width: 90%;
+	padding: 5px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	margin-top: 5px;
+  }
+  
+  
